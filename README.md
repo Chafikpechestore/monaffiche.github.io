@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -48,7 +48,7 @@
 </head>
 <body>
     <div class="poster">
-        <h1>Mon Affiche Personnelle</h1>
+        <h1>Mon Affiche Professionnelle</h1>
         <p>Bienvenue sur mon site web en forme d'affiche ! Découvrez mes services et  projets de creation des sites web . </p>
         <div class="contact">
             <p><strong>Pour plus d'infos contactez-moi :</strong></p>
